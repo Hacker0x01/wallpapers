@@ -4,7 +4,7 @@ Enjoy these awesome desktop and phone wallpapers and social media banners.
 
 * [1024x768](1024x768) -- Best for legacy screens
 * [1125x2436](1125x2436) -- Best for phones
-* [1280x1024](1280x1024
+* [1280x1024](1280x1024)
 * [1366x768](1366x768) -- Best for the web
 * [1920x1080](1920x1080) -- High-Definition
 * [social-media](social-media) -- Social media banners
